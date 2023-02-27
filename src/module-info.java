@@ -1,0 +1,2 @@
+module Extends02 {
+}
